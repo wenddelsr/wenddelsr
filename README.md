@@ -1,6 +1,7 @@
 ## Olá, eu sou o Wendel Segovia Rodrigues
 
-No momento estou aprendendo HTML, CSS e Javascript!
+No momento estou fazer o curso CS50x!
+Matriculado no curso de Análise e Desenvolvimento de Sistemas.
 
 <a href="https://instagram.com/wenddelsr" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 
